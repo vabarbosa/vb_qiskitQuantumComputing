@@ -1,8 +1,8 @@
 # qiskitQuantumComputing
 
-# Entrar a quantumLab
+# QuantumLab
 https://quantum-computing.ibm.com/
 
 
-# Más información
+# ++ Info
 https://www.youtube.com/watch?v=HkpbbDw0rWI&t=4s
